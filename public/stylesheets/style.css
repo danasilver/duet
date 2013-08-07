@@ -1,0 +1,58 @@
+@import url(http://fonts.googleapis.com/css?family=Quicksand:300,400);
+html, body {
+	margin: 0;
+	padding: 0;
+	font-family: "Quicksand";
+	font-weight: 400;
+	height: 100%;
+	width: 100%;
+}
+
+a {
+	color: #00B7FF;
+}
+
+#header {
+	height: 75px;
+	background-color: #777;
+	color: #FFF;
+}
+
+#sounds {
+	height: calc(100% - 175px);
+	background-color: #333;
+}
+
+#footer {
+	height: 100px;
+	background-color: #000;
+}
+
+#title {
+	font-size: 40px;
+	padding: 10px 0 0 10px;
+}
+
+.eightacross {
+	width: 12.5%;
+	height: 100px;
+	float: left;
+}
+
+.eightacross p {
+	margin: 0;
+	font-size: 40px;
+	text-align: center;
+	line-height: 100px;
+	color: #333;
+}
+
+.key-shadow {
+	color: #666 !important;
+	text-shadow: 0 0 30px #FFF;
+}
+
+.smooth-move {
+	transition: all 1s;
+	-webkit-transition: all 1s;
+}

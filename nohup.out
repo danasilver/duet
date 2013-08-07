@@ -1,0 +1,27 @@
+[69193] 10 Jul 22:37:27.702 # Warning: no config file specified, using the default config. In order to specify a config file use redis-server /path/to/redis.conf
+[69193] 10 Jul 22:37:27.703 * Max number of open files set to 10032
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.6.13 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 69193
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[69193] 10 Jul 22:37:27.705 # Server started, Redis version 2.6.13
+[69193] 10 Jul 22:37:27.705 * The server is now ready to accept connections on port 6379
+[69193 | signal handler] (1375104611) Received SIGTERM, scheduling shutdown...
+[69193] 29 Jul 09:30:11.992 # User requested shutdown...
+[69193] 29 Jul 09:30:12.042 * Saving the final RDB snapshot before exiting.
+[69193] 29 Jul 09:30:12.208 * DB saved on disk
+[69193] 29 Jul 09:30:12.208 # Redis is now ready to exit, bye bye...
